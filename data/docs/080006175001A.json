@@ -1,0 +1,18 @@
+{
+ "ref": "080006175001A",
+ "refDisplay": "0800 06 175001A",
+ "title": "RESERVOIR CARBURANT JAUGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0010"
+  }
+ ]
+}

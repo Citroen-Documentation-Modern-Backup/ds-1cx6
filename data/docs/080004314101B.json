@@ -1,0 +1,38 @@
+{
+ "ref": "080004314101B",
+ "refDisplay": "0800 04 314101B",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "BVA 6 RAPPORTS ET CONDUITE A GAUCHE DEPUIS OPR 10577 SAUF (RC) CHINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0047"
+  }
+ ]
+}

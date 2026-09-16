@@ -1,0 +1,38 @@
+{
+ "ref": "080007857001A",
+ "refDisplay": "0800 07 857001A",
+ "title": "VIDE POCHES - BOITE A GANTS - SERRURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0214"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0214"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0214"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0214"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0214"
+  }
+ ]
+}

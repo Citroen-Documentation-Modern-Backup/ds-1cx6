@@ -1,0 +1,38 @@
+{
+ "ref": "080005501001A",
+ "refDisplay": "0800 05 501001A",
+ "title": "FAISCEAUX COMPLEMENTAIRES AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0308"
+  }
+ ]
+}

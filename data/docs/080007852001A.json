@@ -1,0 +1,188 @@
+{
+ "ref": "080007852001A",
+ "refDisplay": "0800 07 852001A",
+ "title": "MONOGRAMMES - DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0124"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0124"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0124"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0124"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0124"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0143"
+  }
+ ]
+}

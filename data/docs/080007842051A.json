@@ -1,0 +1,63 @@
+{
+ "ref": "080007842051A",
+ "refDisplay": "0800 07 842051A",
+ "title": "RETROVISEUR EXTERIEUR COTE CONDUCTEUR",
+ "nature": "",
+ "applicability": "GLACE RETROVISEUR EXTERIEUR ELECTROCHROME JUSQU’A OPR 12027",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0331"
+  }
+ ]
+}

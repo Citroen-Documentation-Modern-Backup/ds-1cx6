@@ -1,0 +1,30 @@
+{
+ "ref": "B1BB012CP0",
+ "refDisplay": "B1BB012CP0",
+ "title": "Identification  - caractéristiques : culasse",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DC5&B0F=B0FN1",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0006"
+  }
+ ]
+}

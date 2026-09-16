@@ -1,0 +1,23 @@
+{
+ "ref": "080003442030A",
+ "refDisplay": "0800 03 442030A",
+ "title": "CREMAILLERE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE VARIABLE ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0339"
+  }
+ ]
+}

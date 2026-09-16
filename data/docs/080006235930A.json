@@ -1,0 +1,18 @@
+{
+ "ref": "080006235930A",
+ "refDisplay": "0800 06 235930A",
+ "title": "VASE EXPANSION CANALISATION EAU",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 10674",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0009"
+  }
+ ]
+}

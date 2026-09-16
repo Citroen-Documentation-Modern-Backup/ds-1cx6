@@ -1,0 +1,30 @@
+{
+ "ref": "B2CB6PP0",
+ "refDisplay": "B2CB6PP0",
+ "title": "Couples de serrage : boîte de vitesses mécanique type ML6C renforcée",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "ML6C",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DA5&B0F=B0FJ0",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DC5&B0F=B0FJ0",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0017"
+  }
+ ]
+}

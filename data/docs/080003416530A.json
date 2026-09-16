@@ -1,0 +1,23 @@
+{
+ "ref": "080003416530A",
+ "refDisplay": "0800 03 416530A",
+ "title": "INDICATEUR PERTE PRESSION DE GONFLAGE",
+ "nature": "",
+ "applicability": "INDICATEUR PERTE PRESSION GONFLAGE DEPUIS OPR 10801",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0338"
+  }
+ ]
+}

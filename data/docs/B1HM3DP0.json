@@ -1,0 +1,20 @@
+{
+ "ref": "B1HM3DP0",
+ "refDisplay": "B1HM3DP0",
+ "title": "Procédure d’initialisation : calculateur d’injection multipoints BOSCH ME 7.4.7",
+ "nature": "Procédure d’intervention",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0010"
+  }
+ ]
+}

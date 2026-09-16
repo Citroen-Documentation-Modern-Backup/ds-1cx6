@@ -1,0 +1,18 @@
+{
+ "ref": "080004456315A",
+ "refDisplay": "0800 04 456315A",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0044"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "080003395001A",
+ "refDisplay": "0800 03 395001A",
+ "title": "SPHERE REGULATEUR",
+ "nature": "",
+ "applicability": "SUSPENSION ACTIVE REGLAGE AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0337"
+  }
+ ]
+}

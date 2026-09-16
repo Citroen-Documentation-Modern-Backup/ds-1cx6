@@ -1,0 +1,25 @@
+{
+ "ref": "B3ET0101P0",
+ "refDisplay": "B3ET0101P0",
+ "title": "Évolution  : circuit de direction assistée",
+ "nature": "Évolutions",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0339"
+  }
+ ]
+}

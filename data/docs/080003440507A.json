@@ -1,0 +1,18 @@
+{
+ "ref": "080003440507A",
+ "refDisplay": "0800 03 440507A",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE JUSQU’A OPR 11556",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0339"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B3BE0101P0",
+ "refDisplay": "B3BE0101P0",
+ "title": "Contrôle - réglage : hauteurs du véhicule",
+ "nature": "Contrôles réglages",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0337"
+  }
+ ]
+}

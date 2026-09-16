@@ -1,0 +1,30 @@
+{
+ "ref": "B3EI0DP0",
+ "refDisplay": "B3EI0DP0",
+ "title": "Purge : circuit hydraulique d’assistance de direction",
+ "nature": "Vidange - remplissage - purge",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0339"
+  }
+ ]
+}

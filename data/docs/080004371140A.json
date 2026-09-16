@@ -1,0 +1,18 @@
+{
+ "ref": "080004371140A",
+ "refDisplay": "0800 04 371140A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "ML6C",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0022"
+  }
+ ]
+}

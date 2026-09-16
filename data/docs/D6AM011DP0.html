@@ -1,0 +1,392 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">D6AM011DP0</td><td class="title">Télécodage : Boîtier télématique RT3 - RT4 - RT5</td></tr></tbody></table></div><div id="appl" class="section_appl">MONTAGE MULTIPLEXE CAN CAN</div><div class="section_corps" id="content"><div class="tli">Liste des boîtiers télématiques : 
+<ul>
+<li>RT3 : Pour les boîtiers télématiques dont la version logiciel du boîtier télématique est égale à 6.x</li>
+<li>RT4 : Pour les boîtiers télématiques dont la version logiciel du boîtier télématique est égale à 7.x</li>
+<li>RT5 : Pour les boîtiers télématiques dont la version logiciel du boîtier télématique est égale à 8.x</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL43"></a><div class="sti1">1. Véhicule concerné</div></div>
+<div class="part"><div class="clsBookExpanded" child="0" id="obook0"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="0" id="cbook0"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="0">
+<div class="par">CITROËN C2 tout CAN.</div><div class="par">À partir de la version de télémise à jour Diagbox 7.09.</div></div>
+</div>
+<div class="cha1"><a name="LABEL27"></a><div class="sti1">2. Sommaire</div></div>
+<div class="par"><a href="#LABEL42" class="lienHyperTexte">Consignes de sécurité</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL4" class="lienHyperTexte">Opérations préliminaires</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL5" class="lienHyperTexte">Télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL29" class="lienHyperTexte">Télécodage par internet</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL38" class="lienHyperTexte">Procédure à effectuer après le télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="tli"><a href="#LABEL40" class="lienHyperTexte">Tableaux de télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  : 
+<ul>
+<li>Tableau 1 : Configuration du boîtier télématique - <a href="#LABEL9" class="lienHyperTexte">Configuration du code VIN</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 2 : Configuration du boîtier télématique - <a href="#LABEL44" class="lienHyperTexte">Configuration des options client</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 3 : Configuration du boîtier télématique - <a href="#LABEL18" class="lienHyperTexte">Configuration des options d’affichage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 4 : Configuration du boîtier télématique - <a href="#LABEL24" class="lienHyperTexte">Configuration du menu de personnalisation</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 5 : Configuration du boîtier télématique - <a href="#LABEL28" class="lienHyperTexte">Configuration de la touche menu du volant de direction à commandes centralisées fixes</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  (Selon équipement)</li>
+<li>Tableau 6 : <a href="#LABEL26" class="lienHyperTexte">Activation des services d’urgence et d’assistance</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 7 : Services et numéros de téléphone associés - <a href="#LABEL21" class="lienHyperTexte">Configuration des autres services</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 8 : Services et numéros de téléphone associés - <a href="#LABEL22" class="lienHyperTexte">Configuration du juke-box</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL42"></a><div class="sti1">3. Consignes de sécurité</div></div>
+<div class="par">L’opération de télécodage est une opération sensible qui a des conséquences directes sur le bon fonctionnement du véhicule.</div><div class="tli">Un mauvais télécodage peut avoir des impacts sur : 
+<ul>
+<li>La sécurité (Désactivation des dispositifs de protection du véhicule)</li>
+<li>Le fonctionnement global du véhicule (perte complète de fonctions du véhicule ou dégradation de celles-ci)</li>
+<li>Le diagnostic du véhicule (Remontée de code défauts pouvant mettre en échec les méthodes de diagnostic de l’outil et conduire à des remplacements de pièces injustifiées)</li>
+</ul>
+</div>
+<div class="tli">Avant toute tentative de démarrage du moteur : 
+<ul>
+<li>Contrôler que le frein de stationnement est activé</li>
+<li>En présence d’une boîte de vitesses automatique, contrôler que le levier de vitesses est en position "P" (Park)</li>
+<li>En présence d’une boîte de vitesses manuelle, contrôler que le levier de vitesses est au point mort</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL4"></a><div class="sti1">4. Opérations préliminaires</div></div>
+<div class="tli">Avant toute intervention : 
+<ul>
+<li>Établir la communication avec le calculateur ; À l’aide d’un outil de diagnostic</li>
+<li>Imprimer l’ensemble des écrans de l’outil de diagnostic indiquant les valeurs des paramètres de télécodage, ou noter ces valeurs manuellement</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL5"></a><div class="sti1">5. Télécodage</div></div>
+<div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Après tout remplacement de calculateur, il est nécessaire de télécoder les numéros de téléphone des services. </div></div>
+<div class="tli">À la question "Le client a-t-il refusé les services d’appel d’urgence et d’assistance localisés? ", répondre par : 
+<ul>
+<li>NON si le client a souscrit à un contrat d’appel d’urgence</li>
+<li>OUI si le client n’a pas souscrit à un contrat d’appel d’urgence</li>
+</ul>
+</div>
+<div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Ne pas débrancher ni éteindre l’outil de diagnostic pendant la procédure. </div></div>
+<div class="tli">En cas de télécodage du calculateur : 
+<ul>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le télécodage par internet</li>
+<li>Vérifier le télécodage</li>
+</ul>
+</div>
+<div class="tli">En cas de remplacement d’un calculateur : 
+<ul>
+<li>Monter le nouveau calculateur</li>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le télécodage par internet</li>
+<li>Vérifier le télécodage</li>
+<li>Effectuer les opérations d’apprentissage (Si nécessaire)</li>
+</ul>
+</div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : Il faut compter alors 7 à 8 minutes d’attente avant la fin de la procédure. </div></div>
+<div class="cha2"><a name="LABEL29"></a><div class="sti2">5.1. Télécodage par internet</div></div>
+<div class="par">Effectuer le télécodage par internet.</div><div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Si le télécodage par internet ne fonctionne pas (présence d’un message à l’outil indiquant le code erreur associé à la phrase "il est inutile de renouveler l’opération"), effectuer un télécodage manuel en remplacement du télécodage par internet (se reporter aux tableaux de télécodage). </div></div>
+<div class="cha2"><a name="LABEL38"></a><div class="sti2">5.2. Procédure à effectuer après le télécodage</div></div>
+<div class="par">Contrôler et reprendre si nécessaire les paramètres suite au télécodage par internet.</div><div class="cha1"><a name="LABEL40"></a><div class="sti1">6. Tableaux de télécodage</div></div>
+<div class="tli">Après avoir sélectionné le menu "télécodage manuel", les menus suivants sont disponibles : 
+<ul>
+<li>Tableau 1 : Configuration du boîtier télématique - <a href="#LABEL9" class="lienHyperTexte">Configuration du code VIN</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 2 : Configuration du boîtier télématique - <a href="#LABEL44" class="lienHyperTexte">Configuration des options client</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 3 : Configuration du boîtier télématique - <a href="#LABEL18" class="lienHyperTexte">Configuration des options d’affichage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 4 : Configuration du boîtier télématique - <a href="#LABEL24" class="lienHyperTexte">Configuration du menu de personnalisation</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 5 : Configuration du boîtier télématique - <a href="#LABEL28" class="lienHyperTexte">Configuration de la touche menu du volant de direction à commandes centralisées fixes</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  (Selon équipement)</li>
+<li>Tableau 6 : <a href="#LABEL26" class="lienHyperTexte">Activation des services d’urgence et d’assistance</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 7 : Services et numéros de téléphone associés - <a href="#LABEL21" class="lienHyperTexte">Configuration des autres services</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+<li>Tableau 8 : Services et numéros de téléphone associés - <a href="#LABEL22" class="lienHyperTexte">Configuration du juke-box</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+</ul>
+</div>
+<div class="cha2"><a name="LABEL9"></a><div class="sti2">6.1. Tableau 1 : Configuration du boîtier télématique - Configuration du code VIN</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Configuration du code VIN</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Code VIN</td>
+<td colspan="1" rowspan="1">17 Caractères alphanumériques</td>
+<td colspan="1" rowspan="1">Contrôler que le code VIN affiché correspond bien au code VIN du véhicule, sinon le corriger</td>
+<td colspan="1" rowspan="1">450</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div><div class="cha2"><a name="LABEL44"></a><div class="sti2">6.2. Tableau 2 : Configuration du boîtier télématique - Configuration des options client</div></div>
+<div class="part"><div class="clsBookExpanded" child="3" id="obook3"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="3" id="cbook3"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="3">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Configuration des options client</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="24"></td>
+<td colspan="1" rowspan="2">Aide au stationnement</td>
+<td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="2">Contrôler l’absence ou la présence des capteurs d’aide au stationnement à l’avant et à l’arrière du véhicule</td>
+<td colspan="1" rowspan="2">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Présente arrière</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîtier de commutation d’antennes DIVERSITY</td>
+<td colspan="1" rowspan="1">Absent</td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2">Changeur CD</td>
+<td colspan="1" rowspan="1">Absent</td>
+<td colspan="1" rowspan="2">Permet de contrôler la présence ou l’absence d’un changeur CD dans le véhicule (Coffre - Boîte à gants - Façade tableau de bord sous le siège passager)</td>
+<td colspan="1" rowspan="2">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Présent</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Clavier de commande déportée</td>
+<td colspan="1" rowspan="1">Absent</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Climatisation </td>
+<td colspan="1" rowspan="1">Pas de climatisation</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Détection de sous gonflage</td>
+<td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Reconnaissance vocale</td>
+<td colspan="1" rowspan="1">Activée</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">480</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Volant de direction à commandes centralisées fixes</td>
+<td colspan="1" rowspan="1">Absent</td>
+<td colspan="1" rowspan="1">(2) (6)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Alerte survitesse</td>
+<td colspan="1" rowspan="1">Désactivée</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Entrée audio auxiliaire </td>
+<td colspan="1" rowspan="1">Désactivée</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">680</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Pilotage des groupes motoventilateurs</td>
+<td colspan="1" rowspan="1">Activée</td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Amplificateur Hi-Fi</td>
+<td colspan="1" rowspan="1">Absent</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="6">Zone géographique d’utilisation</td>
+<td colspan="1" rowspan="1">Europe</td>
+<td colspan="1" rowspan="6">Télécoder suivant la zone principale d’utilisation du véhicule</td>
+<td colspan="1" rowspan="6">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">JAPON</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Amérique Latine</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Chine</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Inde</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">USA</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Niveau sonore du signal émis pour l’aide au stationnement avant</td>
+<td colspan="1" rowspan="1">Volume n°3<br></td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">680</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Niveau sonore du signal émis pour l’aide au stationnement arrière</td>
+<td colspan="1" rowspan="1">Volume n°3<br></td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">680</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2">Verrouillage de la touche menu</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="2">Paramètre à configurer en fonction de la législation du pays du client. La valeur "activée" interdit l’accès aux fonctions disponibles par la touche MENU, en roulant</td>
+<td colspan="1" rowspan="2">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Désactivé</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div><div class="par">(5) Paramètre non disponible à partir de la version CD N° 1260.</div><div class="par">(6) Paramètre non disponible à partir de la version CD N° 1558.</div></div>
+</div>
+<div class="cha2"><a name="LABEL18"></a><div class="sti2">6.3. Tableau 3 : Configuration du boîtier télématique - Configuration des options d’affichage</div></div>
+<div class="part"><div class="clsBookExpanded" child="6" id="obook6"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="6" id="cbook6"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="6">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Configuration des options d’affichage</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="4"></td>
+<td colspan="1" rowspan="1">Affichage de la température extérieure</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de la consigne de navigation au combiné</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Menu ordinateur de bord complémentaire</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Entrée vidéo auxiliaire</td>
+<td colspan="1" rowspan="1">Désactivée</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div><div class="par">(5) Paramètre non disponible à partir de la version CD N° 1260.</div></div>
+</div>
+<div class="cha2"><a name="LABEL24"></a><div class="sti2">6.4. Tableau 4 : Configuration du boîtier télématique - Configuration du menu de personnalisation</div></div>
+<div class="part"><div class="clsBookExpanded" child="9" id="obook9"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="9" id="cbook9"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="9">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Configuration du menu de personnalisation</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="15"></td>
+<td colspan="1" rowspan="1">Affichage de l’option "dégagement poste de conduite"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "Descente partielle des vitres"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "Aide au dépassement visuelle"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "Aide au dépassement sonore"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " enclenchement de l’essuyage arrière en manœuvre de recul "</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "éclairage d’ambiance"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " feux diurnes "</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "allumage automatique des feux"</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "éclairage d’accompagnement"</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " éclairage adaptatif"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option "Frein secondaire automatique"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " sélectivité des ouvrants (porte conducteur ou toutes portes)"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " condamnation permanente du coffre"</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " détection d’obstacle de proximité visuelle "</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Affichage de l’option " détection d’obstacle de proximité sonore "</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) </td>
+<td colspan="1" rowspan="1">450</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div></div>
+</div>
+<div class="cha2"><a name="LABEL28"></a><div class="sti2">6.5. Tableau 5 : Configuration du boîtier télématique - Configuration de la touche menu du volant de direction à commandes centralisées fixes</div></div>
+<div class="part"><div class="clsBookExpanded" child="13" id="obook13"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="13" id="cbook13"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="13">
+<div class="par">Véhicule non concerné.</div></div>
+</div>
+<div class="cha2"><a name="LABEL26"></a><div class="sti2">6.6. Tableau 6 : Services et numéros de téléphone associés - Activation des services d’urgence et d’assistance</div></div>
+<div class="part"><div class="clsBookExpanded" child="14" id="obook14"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="14" id="cbook14"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="14">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Activation des services d’urgence et d’assistance</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="5"></td>
+<td colspan="1" rowspan="1">Bouton d’appel de dépannage</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2) (7)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Bouton d’appel d’urgence</td>
+<td colspan="1" rowspan="1">Activé</td>
+<td colspan="1" rowspan="1">(2) (7)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Envoi de SMS pour le service d’appel d’information<br> ou <br>Activation du service NaviDrive<br> ou <br>SMS d’activation des services client</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) (8) (9)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Service de télédiagnostic</td>
+<td colspan="1" rowspan="1">Désactivé</td>
+<td colspan="1" rowspan="1">(2) (5) (8)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Remontée kilométrique des informations par le télédiagnostic</td>
+<td colspan="1" rowspan="1">15000 km</td>
+<td colspan="1" rowspan="1">(2) (5)</td>
+<td colspan="1" rowspan="1">450</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div><div class="par">(5) Paramètre non disponible à partir de la version CD N° 1260.</div><div class="par">(6) Paramètre non disponible à partir de la version CD N° 1558.</div><div class="par">(7) Paramètre à activer absolument et uniquement à la livraison du véhicule au client.</div><div class="par">(8) Ces paramètres doivent être absolument et uniquement désactivés à la livraison du véhicule au client. L’activation de ces paramètres alors que les services ne sont pas encore disponibles, provoque un envoi systématique de SMS que le client paie pour un service nul ; il est donc impératif de ne pas activer ces services jusqu’à leur ouverture.</div><div class="par">(9) Paramètre non disponible à partir de la version CD N° 680.</div></div>
+</div>
+<div class="cha2"><a name="LABEL21"></a><div class="sti2">6.7. Tableau 7 : Services et numéros de téléphone associés - Configuration des autres services</div></div>
+<div class="part"><div class="clsBookExpanded" child="15" id="obook15"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="15" id="cbook15"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="15">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="5">Configuration des autres services</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+<td colspan="1" rowspan="1">Paramètre disponible à partir de la version CD N° </td>
+</tr><tr valign="top"><td colspan="1" rowspan="3"></td>
+<td colspan="1" rowspan="1">Numéro de boîte vocale</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Télécoder en fonction de l’opérateur de la carte SIM. Il s’agit du numéro utilisé lorsque le client demande l’appel de sa boîte vocale via le menu téléphone</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Numéro de centre SMS ordinaire</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Télécoder en fonction de l’opérateur de la carte SIM. Il s’agit du numéro du centre de traitement des SMS utilisé pour l’envoi des SMS</td>
+<td colspan="1" rowspan="1">450</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Numéro de secours pour l’appel d’urgence</td>
+<td colspan="1" rowspan="1">112</td>
+<td colspan="1" rowspan="1">Télécoder le numéro 112</td>
+<td colspan="1" rowspan="1">450</td>
+</tr></tbody></table>
+</div>
+<div class="par">(1) À télécoder selon équipement.</div><div class="par">(2) Télécodage d’une autre valeur interdit.</div><div class="par">(3) Paramètre télécodé automatiquement lors de la procédure de "choix du plan de maintenance".</div><div class="par">(4) Paramètres à contrôler systématiquement après un télécodage par internet.</div></div>
+</div>
+<div class="cha2"><a name="LABEL22"></a><div class="sti2">6.8. Tableau 8 : Configuration du juke-box</div></div>
+<div class="part"><div class="clsBookExpanded" child="17" id="obook17"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="17" id="cbook17"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro">MONTAGE MULTIPLEXE CAN CAN</div>
+<div class="clsExpanded" id="17">
+<div class="par">Véhicule non concerné.</div></div>
+</div>
+</div>

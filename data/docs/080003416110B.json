@@ -1,0 +1,38 @@
+{
+ "ref": "080003416110B",
+ "refDisplay": "0800 03 416110B",
+ "title": "ROUES",
+ "nature": "",
+ "applicability": "MONTAGE ROUE ALLIAGE DEPUIS OPR 10725 SAUF PRECONISATION POUR MONTAGE PNEUMATIQUE HIVER",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0023"
+  }
+ ]
+}

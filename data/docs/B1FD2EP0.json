@@ -1,0 +1,30 @@
+{
+ "ref": "B1FD2EP0",
+ "refDisplay": "B1FD2EP0",
+ "title": "Contrôle  : pression d’huile",
+ "nature": "Contrôles",
+ "applicability": "SYSTEME INJECTION SIEMENS",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DC5&B0F=B0FN1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0008"
+  }
+ ]
+}

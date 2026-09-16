@@ -1,0 +1,18 @@
+{
+ "ref": "080001114392A",
+ "refDisplay": "0800 01 114392A",
+ "title": "CARTER DE DISTRIBUTION BOUCHONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0007"
+  }
+ ]
+}

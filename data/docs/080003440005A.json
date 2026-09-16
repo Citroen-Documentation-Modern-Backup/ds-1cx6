@@ -1,0 +1,18 @@
+{
+ "ref": "080003440005A",
+ "refDisplay": "0800 03 440005A",
+ "title": "POMPE ASSISTANCE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ELECTRO HYDRAULIQUE ASSISTEE JUSQU’A OPR 11048",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0339"
+  }
+ ]
+}

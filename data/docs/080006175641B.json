@@ -1,0 +1,18 @@
+{
+ "ref": "080006175641B",
+ "refDisplay": "0800 06 175641B",
+ "title": "BOITIER SONDE TEMPERATURE ECHAPP",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "080003394171A",
+ "refDisplay": "0800 03 394171A",
+ "title": "CANALISATION ALIMENT SUSPENSION AR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10714 JUSQU’A OPR 11360",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0337"
+  }
+ ]
+}

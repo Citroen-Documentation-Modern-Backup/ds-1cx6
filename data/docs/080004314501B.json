@@ -1,0 +1,18 @@
+{
+ "ref": "080004314501B",
+ "refDisplay": "0800 04 314501B",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "ML6C ET CONDUITE A GAUCHE DEPUIS OPR 11284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "B2CG9AP0",
+ "refDisplay": "B2CG9AP0",
+ "title": "Dépose - repose : commande de sélection de vitesses",
+ "nature": "Dépose-pose",
+ "applicability": "BVA 6 RAPPORTS",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN2",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0018"
+  }
+ ]
+}

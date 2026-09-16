@@ -1,0 +1,18 @@
+{
+ "ref": "080003413101A",
+ "refDisplay": "0800 03 413101A",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": "SUSPENSION ACTIVE REGLAGE AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0026"
+  }
+ ]
+}

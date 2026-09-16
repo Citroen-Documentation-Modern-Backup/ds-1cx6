@@ -1,0 +1,18 @@
+{
+ "ref": "080006642625A",
+ "refDisplay": "0800 06 642625A",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11557 SAUF SANS CHAUFFAGE ADDITIONNEL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0347"
+  }
+ ]
+}

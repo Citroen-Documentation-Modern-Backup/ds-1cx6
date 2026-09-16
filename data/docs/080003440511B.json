@@ -1,0 +1,18 @@
+{
+ "ref": "080003440511B",
+ "refDisplay": "0800 03 440511B",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 10668 JUSQU’A OPR 10688",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FN1",
+   "fctId": "FCT0339"
+  }
+ ]
+}

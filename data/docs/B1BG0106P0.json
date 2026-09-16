@@ -1,0 +1,55 @@
+{
+ "ref": "B1BG0106P0",
+ "refDisplay": "B1BG0106P0",
+ "title": "Démontage - remontage : bielles -  pistons",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DA5&B0F=B0F3L",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX4",
+   "variantKey": "B0D=B0DC5&B0F=B0F3L",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DA5&B0F=B0F3M",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX3",
+   "variantKey": "B0D=B0DC5&B0F=B0F3M",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DC5&B0F=B0F3M",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CVV",
+   "variantKey": "B0D=B0DAF&B0F=B0F3L",
+   "fctId": "FCT0005"
+  }
+ ]
+}

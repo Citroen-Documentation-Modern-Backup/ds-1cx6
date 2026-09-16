@@ -1,0 +1,91 @@
+{
+ "ldp": "1CX6",
+ "label": "C6",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA4",
+     "lib": "BERLINE 4PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FJ2",
+     "lib": "2.2 HDi FAP (DW12C)"
+    },
+    {
+     "val": "B0FJ0",
+     "lib": "2.2 HDi FAP 175"
+    },
+    {
+     "val": "B0FN1",
+     "lib": "2.7 HDi FAP"
+    },
+    {
+     "val": "B0FN2",
+     "lib": "3.0 HDI FAP"
+    },
+    {
+     "val": "B0F3M",
+     "lib": "3.0i V6 24v 211 (ES9A)"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA4&B0F=B0FJ2",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FJ2"
+   },
+   "label": "BERLINE 4PTES · 2.2 HDi FAP (DW12C)"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FJ0",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FJ0"
+   },
+   "label": "BERLINE 4PTES · 2.2 HDi FAP 175"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FN1",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FN1"
+   },
+   "label": "BERLINE 4PTES · 2.7 HDi FAP"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0FN2",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0FN2"
+   },
+   "label": "BERLINE 4PTES · 3.0 HDI FAP"
+  },
+  {
+   "key": "B0D=B0DA4&B0F=B0F3M",
+   "selections": {
+    "B0D": "B0DA4",
+    "B0F": "B0F3M"
+   },
+   "label": "BERLINE 4PTES · 3.0i V6 24v 211 (ES9A)"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "080006184899A",
+ "refDisplay": "0800 06 184899A",
+ "title": "DISPOSITIF DE PILOTAGE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11283",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0F3M",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B3BG5TP0",
+ "refDisplay": "B3BG5TP0",
+ "title": "Dépose - repose : capteur de hauteur avant",
+ "nature": "Dépose-pose",
+ "applicability": "SUSPENSION HYDRACTIVE 3 PLUS",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0337"
+  }
+ ]
+}

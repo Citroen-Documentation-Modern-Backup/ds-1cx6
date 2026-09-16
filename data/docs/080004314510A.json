@@ -1,0 +1,18 @@
+{
+ "ref": "080004314510A",
+ "refDisplay": "0800 04 314510A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "ML6C ET CONDUITE A DROITE JUSQU’A OPR 11283",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CX6",
+   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
+   "fctId": "FCT0016"
+  }
+ ]
+}
