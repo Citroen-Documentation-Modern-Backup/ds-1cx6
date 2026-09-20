@@ -1,18 +1,1 @@
-{
- "ref": "080004456305A",
- "refDisplay": "0800 04 456305A",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"080004456305A","refDisplay":"0800 04 456305A","title":"POMPE A VIDE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FJ0","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CX6)(B0FJ0)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"012117"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0800","grp":"234","grp2":"04","maj":"20120228","numfich":"456305A"},[["appl",{},["{(?1CX6)(B0FJ0)}"]],["sti",{"ident":"23401"},[]],["img",{"numfich":"00046484","path":"/img/pr/84/0004/00046484.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ref":"0000456574","refpg":"4565 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($,,1,12305)/}"]]]],["prremp",{"coef":"01","palges":"P","ref":"9802851280","refpg":"98 028 512 80"},[]]]],["pr",{"codesi":"001502","ref":"0000456592","refpg":"4565 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($1,12306,,)/}"]]]],["prremp",{"coef":"01","ref":"9802851280","refpg":"98 028 512 80"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"284, 466, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"012117","ref":"0000459943","refpg":"4599 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($,,1,12305)/}"]]]]]],["pr",{"codesi":"012117","ref":"0000459963","refpg":"4599 63"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($1,12306,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"272, 376, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006815","ref":"0000101116","refpg":"1011 16"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-60"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"440, 6, 11","shape":"circle"},[]],["area",{"coords":"417, 342, 11","shape":"circle"},[]]]]]]]]]]}

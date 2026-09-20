@@ -1,18 +1,1 @@
-{
- "ref": "080001330001A",
- "refDisplay": "0800 01 330001A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM ML6 CL",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"080001330001A","refDisplay":"0800 01 330001A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM ML6 CL","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FJ0","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX6)(B0FJ0)(DBM47)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0800","grp":"67","grp2":"01","maj":"20110723","numfich":"330001A"},[["appl",{},["{(?1CX6)(B0FJ0)(DBM47)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00064614","path":"/img/pr/14/0006/00064614.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222ZZ","refpg":"2222 ZZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)(DCW79)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X71"]]]],["reporg",{},[["monte",{},["MB24"]],["monte",{},["(MB24)"]]]]]],["pr",{"codesi":"009391","ref":"0000223267","refpg":"2232 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)(DCW79)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (17X71)"]]]],["reporg",{},[["monte",{},["MBB4"]],["monte",{},["(MBB4)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"88, 77, 11","shape":"circle"},[]]]]]]]]]]}

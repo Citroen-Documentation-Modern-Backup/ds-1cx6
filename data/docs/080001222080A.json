@@ -1,18 +1,1 @@
-{
- "ref": "080001222080A",
- "refDisplay": "0800 01 222080A",
- "title": "POMPE A HUILE - CHAINE - CREPINE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FJ0",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"080001222080A","refDisplay":"0800 01 222080A","title":"POMPE A HUILE - CHAINE - CREPINE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FJ0","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CX6)(B0FJ0)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000823"},[]],["thesaurus",{"type":"10","code":"010681"},[]],["thesaurus",{"type":"10","code":"000161"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"21","code":"L0376293"},[]],["mpr",{"catal":"0800","grp":"17","grp2":"01","maj":"20110723","numfich":"222080A"},[["appl",{},["{(?1CX6)(B0FJ0)}"]],["sti",{"ident":"1701"},[]],["img",{"numfich":"00068498","path":"/img/pr/98/0006/00068498.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000823","ref":"00001001E7","refpg":"1001 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["18 DTS"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001001G6","refpg":"1001 G6"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"305, 459, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"010681","ref":"0000101127","refpg":"1011 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-52-24"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"171, 195, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000161","ref":"0000103306","refpg":"1033 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]],["obsligne",{"ident":"L0376293"},[]]]],["prremp",{"coef":"01","palges":"P","ref":"0000103319","refpg":"1033 19"},[]]]],["interactivite",{"order":"03"},[["area",{"coords":"148, 82, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008006","ref":"00006923A2","refpg":"6923 A2"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-55"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"281, 144, 11","shape":"circle"},[]],["area",{"coords":"122, 336, 11","shape":"circle"},[]]]]]]]]]]}

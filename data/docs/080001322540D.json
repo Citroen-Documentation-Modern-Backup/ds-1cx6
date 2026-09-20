@@ -1,18 +1,1 @@
-{
- "ref": "080001322540D",
- "refDisplay": "0800 01 322540D",
- "title": "CONVERTISSEUR",
- "nature": "",
- "applicability": "BVA AM6",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FN2",
-   "fctId": "FCT0016"
-  }
- ]
-}
+{"ref":"080001322540D","refDisplay":"0800 01 322540D","title":"CONVERTISSEUR","nature":"","applicability":"BVA AM6","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FN2","fctId":"FCT0016"}],"kind":"pr","appl":"{(?1CX6)(B0FN2)(DVQ15)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000197"},[]],["thesaurus",{"type":"10","code":"013632"},[]],["mpr",{"catal":"0800","grp":"63","grp2":"01","maj":"20120228","numfich":"322540D"},[["appl",{},["{(?1CX6)(B0FN2)(DVQ15)}"]],["sti",{"ident":"6301"},[]],["img",{"numfich":"00063717","path":"/img/pr/17/0006/00063717.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000197","ref":"00002001F6","refpg":"2001 F6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"323, 177, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"013632","ref":"0000200826","refpg":"2008 26"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10X125-15,5 LG 20"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"94, 343, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "080003394161A",
- "refDisplay": "0800 03 394161A",
- "title": "CANALISATION ALIMENT SUSPENSION AR",
- "nature": "",
- "applicability": " DEPUIS OPR 10714 JUSQU’A OPR 11360",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0F3M",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"080003394161A","refDisplay":"0800 03 394161A","title":"CANALISATION ALIMENT SUSPENSION AR","nature":"","applicability":" DEPUIS OPR 10714 JUSQU’A OPR 11360","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0F3M","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CX6)(B0F3M)/($1,10714,1,11360)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"10","code":"001537"},[]],["thesaurus",{"type":"10","code":"013689"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0800","grp":"282","grp2":"03","maj":"20110723","numfich":"394161A"},[["appl",{},["{(?1CX6)(B0F3M)/($1,10714,1,11360)/}"]],["sti",{"ident":"28201"},[]],["img",{"numfich":"00061573","path":"/img/pr/73/0006/00061573.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001713","ref":"00005270VA","refpg":"5270 VA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"289, 140, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001713","ref":"00005270VP","refpg":"5270 VP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"375, 278, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001713","cote":"G","ref":"00005270VG","refpg":"5270 VG"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"347, 391, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001713","cote":"D","ref":"00005270VE","refpg":"5270 VE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"272, 349, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001537","ref":"00005280T3","refpg":"5280 T3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"335, 252, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"013689","ref":"00005273A2","refpg":"5273 A2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"339, 196, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001713","ref":"00005270TV","refpg":"5270 TV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"46, 309, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001537","ref":"00005280W1","refpg":"5280 W1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"108, 286, 11","shape":"circle"},[]]]]]]]]]]}

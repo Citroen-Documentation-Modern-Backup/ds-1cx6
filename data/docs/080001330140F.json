@@ -1,18 +1,1 @@
-{
- "ref": "080001330140F",
- "refDisplay": "0800 01 330140F",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "BVA AM6 NORME EURO5",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FJ2",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"080001330140F","refDisplay":"0800 01 330140F","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"BVA AM6 NORME EURO5","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FJ2","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX6)(B0FJ2)(DVQ51)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"009393"},[]],["thesaurus",{"type":"10","code":"003234"},[]],["mpr",{"catal":"0800","grp":"91","grp2":"01","maj":"20120228","numfich":"330140F"},[["appl",{},["{(?1CX6)(B0FJ2)(DVQ51)}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00087936","path":"/img/pr/36/0008/00087936.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","ref":"00002231T5","refpg":"2231 T5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["reporg",{},[["monte",{},["(GN03)"]],["monte",{},["GN03"]]]]]],["pr",{"codesi":"009393","ref":"00002232W6","refpg":"2232 W6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)(~2)}"]]]],["reporg",{},[["monte",{},["(GN03E)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"100, 72, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003234","ref":"00009734R7","refpg":"9734 R7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AW1 BOITE AM6-2/AT6"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"220, 423, 11","shape":"circle"},[]]]]]]]]]]}

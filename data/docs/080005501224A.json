@@ -1,18 +1,1 @@
-{
- "ref": "080005501224A",
- "refDisplay": "0800 05 501224A",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FN2",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"080005501224A","refDisplay":"0800 05 501224A","title":"FAISCEAU MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FN2","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CX6)(B0FN2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"10","code":"012372"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["mpr",{"catal":"0800","grp":"514","grp2":"05","maj":"20120305","numfich":"501224A"},[["appl",{},["{(?1CX6)(B0FN2)}"]],["sti",{"ident":"51401"},[]],["img",{"numfich":"00081362","path":"/img/pr/62/0008/00081362.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","ref":"00006585A7","refpg":"6585 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]],["nlcfr",{},[["livre",{},["9671824380"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"394, 109, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"012372","ref":"9675555280","refpg":"96 755 552 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)(DCK03)/($,,1,13201)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"87, 389, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","ref":"00006992G6","refpg":"6992 G6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 T 13"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"382, 469, 11","shape":"circle"},[]]]]]],["repere",{"rep":"80"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"438, 469, 11","shape":"circle"},[]]]]]]]]]]}

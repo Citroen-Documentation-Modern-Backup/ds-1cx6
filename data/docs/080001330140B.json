@@ -1,18 +1,1 @@
-{
- "ref": "080001330140B",
- "refDisplay": "0800 01 330140B",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "BVA AM6",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0F3M",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"080001330140B","refDisplay":"0800 01 330140B","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"BVA AM6","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0F3M","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CX6)(B0F3M)(DVQ15)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"009393"},[]],["thesaurus",{"type":"10","code":"003234"},[]],["mpr",{"catal":"0800","grp":"91","grp2":"01","maj":"20110723","numfich":"330140B"},[["appl",{},["{(?1CX6)(B0F3M)(DVQ15)}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00018676","path":"/img/pr/76/0001/00018676.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","ps":"1","ref":"00002222ZR","refpg":"2222 ZR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["reporg",{},[["monte",{},["GH04"]],["monte",{},["GH07"]],["monte",{},["GH01"]],["monte",{},["GH05"]],["monte",{},["GH09"]],["monte",{},["(GH09)"]]]]]],["pr",{"codesi":"009393","ps":"1","ref":"00002232K3","refpg":"2232 K3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($,,1,10926)/(~2)}"]]]],["reporg",{},[["monte",{},["GH04"]],["monte",{},["GH07"]],["monte",{},["(GH07E)"]],["monte",{},["GH05"]]]]]],["pr",{"codesi":"009393","ps":"1","ref":"00002232J0","refpg":"2232 J0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)/($1,10927,,)/(~2)}"]]]],["reporg",{},[["monte",{},["GH09"]],["monte",{},["(GH09E)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"87, 31, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003234","ref":"00009980D4","refpg":"9980 D4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["JWS 3309 2 LITER"]]]],["prremp",{"coef":"01","palges":"P","ref":"00009730AF","refpg":"9730 AF"},[]]]],["interactivite",{"order":"02"},[["area",{"coords":"163, 448, 11","shape":"circle"},[]]]]]]]]]]}

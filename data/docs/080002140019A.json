@@ -1,18 +1,1 @@
-{
- "ref": "080002140019A",
- "refDisplay": "0800 02 140019A",
- "title": "COLLECTEUR REPARTITEUR ADMISSION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FN1",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"080002140019A","refDisplay":"0800 02 140019A","title":"COLLECTEUR REPARTITEUR ADMISSION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FN1","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CX6)(B0FN1)}","tree":["document",{},[["thesaurus",{"type":"10","code":"014320"},[]],["mpr",{"catal":"0800","grp":"26","grp2":"02","maj":"20110723","numfich":"140019A"},[["appl",{},["{(?1CX6)(B0FN1)}"]],["sti",{"ident":"2601"},[]],["img",{"numfich":"00051558","path":"/img/pr/58/0005/00051558.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"014320","ref":"00001622Y7","refpg":"1622 Y7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001622HW","refpg":"1622 HW"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"60, 165, 11","shape":"circle"},[]]]]]]]]]]}

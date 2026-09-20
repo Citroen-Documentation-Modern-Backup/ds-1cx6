@@ -1,18 +1,1 @@
-{
- "ref": "080006640611A",
- "refDisplay": "0800 06 640611A",
- "title": "COMPRESSEUR DETAIL",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0FN2",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"080006640611A","refDisplay":"0800 06 640611A","title":"COMPRESSEUR DETAIL","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0FN2","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CX6)(B0FN2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"012676"},[]],["thesaurus",{"type":"10","code":"012610"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0800","grp":"468","grp2":"06","maj":"20110723","numfich":"640611A"},[["appl",{},["{(?1CX6)(B0FN2)}"]],["sti",{"ident":"46801"},[]],["img",{"numfich":"00082150","path":"/img/pr/50/0008/00082150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"012676","ref":"0000648706","refpg":"6487 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]],["reffour",{},[["four",{},["84830F"]],["refa",{},["SD7C16  13248"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"9800849780","refpg":"98 008 497 80"},[]]]],["pr",{"codesi":"012610","ref":"0000648707","refpg":"6487 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)(~2)}"]],["reffour",{},[["four",{},["84830F"]],["refa",{},["SD7C16  13248"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"173, 443, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006815","ref":"00006925E6","refpg":"6925 E6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-120"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"177, 151, 11","shape":"circle"},[]],["area",{"coords":"82, 189, 11","shape":"circle"},[]]]]]]]]]]}

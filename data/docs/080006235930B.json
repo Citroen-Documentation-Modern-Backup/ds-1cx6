@@ -1,18 +1,1 @@
-{
- "ref": "080006235930B",
- "refDisplay": "0800 06 235930B",
- "title": "VASE EXPANSION CANALISATION EAU",
- "nature": "",
- "applicability": " DEPUIS OPR 10675",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CX6",
-   "variantKey": "B0D=B0DA4&B0F=B0F3M",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"080006235930B","refDisplay":"0800 06 235930B","title":"VASE EXPANSION CANALISATION EAU","nature":"","applicability":" DEPUIS OPR 10675","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CX6","variantKey":"B0D=B0DA4&B0F=B0F3M","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CX6)(B0F3M)/($1,10675,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000045"},[]],["thesaurus",{"type":"10","code":"000084"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"008598"},[]],["thesaurus",{"type":"21","code":"L0381072"},[]],["mpr",{"catal":"0800","grp":"23","grp2":"06","maj":"20110723","numfich":"235930B"},[["appl",{},["{(?1CX6)(B0F3M)/($1,10675,,)/}"]],["sti",{"ident":"2301"},[]],["img",{"numfich":"00090446","path":"/img/pr/46/0009/00090446.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000045","ref":"00001323V1","refpg":"1323 V1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]],["obsligne",{"ident":"L0381072"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"33, 103, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000084","ref":"00001306E4","refpg":"1306 E4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1,4 BAR"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001306J5","refpg":"1306 J5"},[]]]],["interactivite",{"order":"02"},[["area",{"coords":"254, 26, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000084","ref":"0000130324","refpg":"1303 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 9,5X14,5-20"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"360, 362, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"0000692254","refpg":"6922 54"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"259, 87, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004650","ref":"00006981H6","refpg":"6981 H6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11-19 LARG 9"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"406, 242, 11","shape":"circle"},[]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"008598","ref":"0000698391","refpg":"6983 91"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CX6)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X18 EP 1"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"342, 463, 11","shape":"circle"},[]],["area",{"coords":"58, 477, 11","shape":"circle"},[]]]]]]]]]]}
